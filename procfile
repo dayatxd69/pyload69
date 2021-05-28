@@ -1,1 +1,1 @@
-web: pyload
+web: pyload $PORT
