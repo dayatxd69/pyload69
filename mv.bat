@@ -1,1 +1,1 @@
-move ./pyload.conf C:\Users\runneradmin\.config\rclone\rclone.conf
+move .\pyload.conf C:\Users\runneradmin\.config\rclone\rclone.conf
