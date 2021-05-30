@@ -1,1 +1,1 @@
-copy rclone.conf C:\Users\runneradmin\.config\rclone\
+copy rclone.conf C:\Users\runneradmin\.config\rclone
