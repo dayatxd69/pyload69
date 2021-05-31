@@ -1,1 +1,1 @@
-web: pyload --userdir ./pyload/
+web: pyload --userdir ./pyload
