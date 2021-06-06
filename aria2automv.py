@@ -10,7 +10,7 @@ while True:
       for file in files:
         if regex.match(file):
           shutil.move(root+file, destination)
-          print(root+file, destination)
+          print("Moved From", root+file, "to", destination+file)
         else: pass
   else: pass
   time.sleep(30)
